@@ -1,0 +1,24 @@
+h1 {
+    color: palegreen;
+    font-size: 50px;
+    background-color:black;
+}
+
+h1 span{
+color: palevioletred;
+
+}
+
+#P1 {
+    color: black;
+    font-size: 40px;
+    background-color:palegreen;
+    text-align: center;
+}
+
+#P2 {
+    color: black;
+    font-size: 37px;
+    background-color:rgb(195, 152, 251);
+    text-align: right;
+}
